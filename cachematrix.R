@@ -1,4 +1,4 @@
-## There are two functions  embedded here
+## There are two functions embedded here.
 
 ## makeCacheMatrix function creates a special "matrix" object that can cache the
 ## matrix and its inverse
